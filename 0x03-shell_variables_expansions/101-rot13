@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '[N-mn-m]' '[A-MN-za-mn-z]' < n
+echo tr '[N-mn-m]' '[A-MN-za-mn-z]' < n
